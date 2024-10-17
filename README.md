@@ -1,4 +1,4 @@
-# MiniGames-Autoclicker-Bot
+# MiniGames Autoclicker Bot
 
 ## Recommendation before use
 # 🔥🔥 Use PYTHON 3.10 + 🔥🔥
