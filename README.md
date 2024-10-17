@@ -1,5 +1,11 @@
 # MiniGames Autoclicker Bot
-
+## Features  
+| Bot                                                     | List  |
+|---------------------------------------------------------------|:----------------:|
+| Blum                                                          |     CatsVSDogs   |
+| CEXIO                                                         |      goats       |
+| major                                                         |     catsgang     |
+| notpixel                                                      |     tomarket     |
 ## Recommendation before use
 # 🔥🔥 Use PYTHON 3.10 + 🔥🔥
 
